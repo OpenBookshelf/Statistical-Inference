@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Statistical-Inference/static/css/main.8a87c1bc.css",
-    "main.js": "/Statistical-Inference/static/js/main.2e38857b.js",
+    "main.js": "/Statistical-Inference/static/js/main.a4972615.js",
     "static/js/787.63d7c350.chunk.js": "/Statistical-Inference/static/js/787.63d7c350.chunk.js",
     "static/media/teacher.jfif": "/Statistical-Inference/static/media/teacher.ae0f36219d893f8ba721.jfif",
     "static/media/dice.png": "/Statistical-Inference/static/media/dice.6c9b989f7d29e990fbcc.png",
@@ -9,11 +9,11 @@
     "static/media/Vazir.ttf": "/Statistical-Inference/static/media/Vazir.83fea749de20816026b1.ttf",
     "index.html": "/Statistical-Inference/index.html",
     "main.8a87c1bc.css.map": "/Statistical-Inference/static/css/main.8a87c1bc.css.map",
-    "main.2e38857b.js.map": "/Statistical-Inference/static/js/main.2e38857b.js.map",
+    "main.a4972615.js.map": "/Statistical-Inference/static/js/main.a4972615.js.map",
     "787.63d7c350.chunk.js.map": "/Statistical-Inference/static/js/787.63d7c350.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a87c1bc.css",
-    "static/js/main.2e38857b.js"
+    "static/js/main.a4972615.js"
   ]
 }
