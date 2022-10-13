@@ -8,7 +8,7 @@ const Header = () => {
   const [showSidebar, setShowSidebar] = useState(false);
 
   const navigation = [
-    { title: "آمار و احتمال مهندسی", path: "/" },
+    { title: "استنباط آماری", path: "/" },
     { title: "درباره ما", path: "/team" },
   ];
 
