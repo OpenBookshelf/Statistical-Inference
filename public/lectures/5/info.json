@@ -1,9 +1,14 @@
 {
-  "name": "",
-  "describe": "",
+  "name": "05. تعریف احتمال",
+  "describe": "دارای 2 جلسه معرفی است",
   "lectures": [
     {
-      "title": "",
+      "title": "جلسه اول: تعریف احتمال",
+      "streamLink": "",
+      "description": ""
+    }
+    {
+      "title": "جلسه دوم: احتمال شرطی",
       "streamLink": "",
       "description": ""
     }
