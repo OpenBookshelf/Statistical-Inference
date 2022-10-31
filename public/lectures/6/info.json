@@ -1,9 +1,19 @@
 {
-  "name": "",
-  "describe": "",
+  "name": "06. احتمال شرطی",
+  "describe": "دارای 3 جلسه معرفی است",
   "lectures": [
     {
-      "title": "",
+      "title": "جلسه اول: احتمال شرطی",
+      "streamLink": "",
+      "description": ""
+    }
+    {
+      "title": "جلسه دوم: به‌روزرسانی بیزی",
+      "streamLink": "",
+      "description": ""
+    }
+    {
+      "title": "جلسه سوم: مغالطه دادستان",
       "streamLink": "",
       "description": ""
     }
