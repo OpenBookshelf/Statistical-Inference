@@ -1,9 +1,19 @@
 {
-  "name": "",
-  "describe": "",
+  "name": "03. تصویرسازی داده‌های عددی",
+  "describe": "دارای 3 جلسه معرفی است",
   "lectures": [
     {
-      "title": "",
+      "title": "جلسه اول: تصویرسازی داده‌های عددی",
+      "streamLink": "",
+      "description": ""
+    }
+    {
+      "title": "جلسه دوم: معیارهای مرکز و گستردگی",
+      "streamLink": "",
+      "description": ""
+    }
+    {
+      "title": "جلسه سوم: تبدیل داده",
       "streamLink": "",
       "description": ""
     }
