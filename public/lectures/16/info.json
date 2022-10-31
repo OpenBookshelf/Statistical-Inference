@@ -1,11 +1,16 @@
 {
-  "name": "",
-  "describe": "",
+  "name": "16. مقایسه چندتایی و بوت استرپینگ",
+  "describe": "دارای 2 جلسه معرفی است",
   "lectures": [
     {
-      "title": "",
-      "streamLink": "",
-      "description": ""
+      "title": "مقایسه چندتایی",
+      "streamLink": "https://www.aparat.com/video/video/embed/videohash/WuyrD/vt/frame",
+      "description": "جلسه اول درباره‌ی مقایسه چندتایی است"
+    }
+    {
+      "title": "بوت‌استرپینگ",
+      "streamLink": "https://www.aparat.com/video/video/embed/videohash/eMmUq/vt/frame",
+      "description": "جلسه دوم درباره‌ی بوت‌استرپینگ است"
     }
   ]
 }
