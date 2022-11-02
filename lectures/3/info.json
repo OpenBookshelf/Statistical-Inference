@@ -1,11 +1,21 @@
 {
-  "name": "",
-  "describe": "",
+  "name": "03. تصویرسازی داده‌های عددی",
+  "describe": "دارای 3 جلسه معرفی است",
   "lectures": [
     {
-      "title": "",
-      "streamLink": "",
-      "description": ""
+      "title": "جلسه اول: تصویرسازی داده‌های عددی",
+      "streamLink": "https://www.aparat.com/video/video/embed/videohash/pmLwM/vt/frame",
+      "description": "جلسه اول درباره‌ی تصویرسازی داده‌های عددی است"
+    }
+    {
+      "title": "جلسه دوم: معیارهای مرکز و گستردگی",
+      "streamLink": "https://www.aparat.com/video/video/embed/videohash/wGzkS/vt/frame",
+      "description": "جلسه دوم درباره‌ی معیارهای مرکز و گستردگی است"
+    }
+    {
+      "title": "جلسه سوم: تبدیل داده",
+      "streamLink": "https://www.aparat.com/video/video/embed/videohash/nVxqk/vt/frame",
+      "description": "جلسه سوم درباره‌ی تبدیل داده است"
     }
   ]
 }

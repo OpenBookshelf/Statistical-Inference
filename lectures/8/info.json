@@ -1,11 +1,16 @@
 {
-  "name": "",
-  "describe": "",
+  "name": "08. توزیع دو‌جمله‌ای",
+  "describe": "دارای 2 جلسه معرفی است",
   "lectures": [
     {
-      "title": "",
-      "streamLink": "",
-      "description": ""
+      "title": "جلسه اول: آزمایش برنولی",
+      "streamLink": "https://www.aparat.com/video/video/embed/videohash/cHosG/vt/frame",
+      "description": "جلسه اول درباره‌ی آزمایش برنولی است"
+    }
+    {
+      "title": "جلسه دوم: توزیع دوجمله‌ای",
+      "streamLink": "https://www.aparat.com/video/video/embed/videohash/mIchR/vt/frame",
+      "description": "جلسه دوم درباره‌ی توزیع دوجمله‌ای است"
     }
   ]
 }
