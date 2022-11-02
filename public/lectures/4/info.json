@@ -1,11 +1,16 @@
 {
-  "name": "",
-  "describe": "",
+  "name": "04. تصویرسازی داده‌های طبقه‌بندی شده",
+  "describe": "دارای 2 جلسه معرفی است",
   "lectures": [
     {
-      "title": "",
-      "streamLink": "",
-      "description": ""
+      "title": "جلسه اول: تصویرسازی داده‌های طبقه‌بندی شده",
+      "streamLink": "https://www.aparat.com/video/video/embed/videohash/Hfweg/vt/frame",
+      "description": "جلسه اول درباره‌ی تصویرسازی داده‌های طبقه‌بندی شده است"
+    }
+    {
+      "title": "جلسه دوم: چهارچوبی برای آزمون فرض",
+      "streamLink": "https://www.aparat.com/video/video/embed/videohash/m3IyR/vt/frame",
+      "description": "جلسه دوم درباره‌ی چهارچوبی برای آزمون فرض است"
     }
   ]
 }
