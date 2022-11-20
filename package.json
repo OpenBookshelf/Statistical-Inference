@@ -1,6 +1,6 @@
 {
   "name": "statistical-inference",
-  "version": "1.0.0",
+  "version": "5.0.0",
   "homepage": "https://openbookshelf.github.io/Statistical-Inference",
   "private": true,
   "dependencies": {
